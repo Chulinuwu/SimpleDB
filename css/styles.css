@@ -1,0 +1,25 @@
+.fill{
+	color : salmon;
+}
+.input-group-text{
+	color : #FFF5E4;
+	background-color:#A084CA;
+	border-color : pink;
+	border-style: double;
+}
+
+
+body{
+	background-image: url('image/Sky.jpg');
+	font-family: "Times New Roman", Times, serif;
+	margin : 200px;
+	padding : 80px;
+	text-align: center;
+	color: #A084CA;
+	background-color: #EBC7E8;
+	border-color: #645CAA;
+	border-style: double;
+}
+
+
+
